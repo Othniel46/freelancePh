@@ -11,7 +11,7 @@ function Index() {
           <div className="absolute border-8 rounded-lg p-10 border-orange-400 "></div>
           <span className="text-5xl font-semibold leading-tight text-center md:text-left">
             Start your Freelance
-            <br /> journey with US!
+            <br />Your career journey with US!
           </span>
           <br />
           <span className="text-center md:text-left">
